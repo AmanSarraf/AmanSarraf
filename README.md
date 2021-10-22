@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AmanSarraf
 - 👀 I’m interested in Computer technologies
 - 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on web technologies
+- 💞️ I’m looking to collaborate on new technologies
 - 📫 Reach me through...
      ->instagram @_.amansarraf._
      ->linkedin  @aman-sarraf-aa338b155
