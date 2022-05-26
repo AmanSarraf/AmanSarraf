@@ -32,19 +32,20 @@ I love to spend time at <strong>GitHub</strong>
 <a href= https://github.com/AmanSarraf?tab=repositories&q=&type=&language=rdf&sort= > <img width ='32px' src ='https://www.w3.org/Icons/SW/sw-cube.png'> </a>
 <a href= https://github.com/AmanSarraf?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://www.pinclipart.com/picdir/big/396-3965857_c-c-programming-language-logo-clipart.png'> </a>
 <a href= https://github.com/AmanSarraf?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://cdn-icons-png.flaticon.com/512/919/919841.png'> </a>
+<a href= https://github.com/AmanSarraf?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' src ='https://cdn-icons-png.flaticon.com/512/226/226777.png'> </a>
 <a href= https://github.com/AmanSarraf?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://cdn.icon-icons.com/icons2/2415/PNG/512/python_original_logo_icon_146381.png'> </a>
 <a href= https://github.com/AmanSarraf?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' src ='https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png'> </a>
 <a href= https://github.com/AmanSarraf?tab=repositories&q=&type=&language=php&sort= > <img width ='32px' src ='https://pics.freeicons.io/uploads/icons/png/2132470731553750209-512.png'> </a>
 <a href= https://github.com/AmanSarraf?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://cdn-icons-png.flaticon.com/512/919/919851.png'> </a>
-<a href= https://github.com/AmanSarraf?tab=repositories&q=&type=&language=ruby&sort= > <img width ='32px' src ='https://cdn-icons-png.flaticon.com/512/919/919842.png'> </a>
-<a href= "https://www.mongodb.com"/> <img width ='32px' src ='https://mpng.subpng.com/20190401/zsf/kisspng-mongodb-document-oriented-database-nosql-openshift-web-app-development-servcie-in-dehradun-5ca1b8cb8a0f32.3708278115541024755655.jpg'> </a>
+<!-- <a href= https://github.com/AmanSarraf?tab=repositories&q=&type=&language=ruby&sort= > <img width ='32px' src ='https://cdn-icons-png.flaticon.com/512/919/919842.png'> </a> -->
+<!-- <a href= "https://www.mongodb.com"/> <img width ='32px' src ='https://mpng.subpng.com/20190401/zsf/kisspng-mongodb-document-oriented-database-nosql-openshift-web-app-development-servcie-in-dehradun-5ca1b8cb8a0f32.3708278115541024755655.jpg'> </a> -->
 <a href= "https://www.mysql.com/"> <img width ='32px' src ='https://www.nicepng.com/png/full/207-2073547_sql-server-icon-png-29-transparent-background-database.png'> </a>
 <a href= "https://git-scm.com/"> <img width ='32px' src ='https://iconape.com/wp-content/png_logo_vector/git-icon.png'> </a>
 <a href= "https://github.com/AmanSarraf"> <img width ='32px' src ='https://www.pngfind.com/pngs/m/19-198636_github-logo-png-github-square-logo-png-transparent.png'> </a>
 <a href= "https://www.docker.com"> <img width ='32px' src ='https://cdn-icons-png.flaticon.com/512/5969/5969059.png'> </a>
 <a href= "https://kubernetes.io"> <img width ='32px' src ='https://w7.pngwing.com/pngs/190/922/png-transparent-kubernetes-docker-devops-lxc-mongodb-github-blue-logo-symmetry.png'> </a>
 <a href= "https://aws.amazon.com"> <img width ='32px' src ='https://key0.cc/images/preview/32398_4afd8e61dc49a7f45079d384b6185feb.png'> </a>
-<a href= "https://azure.microsoft.com"> <img width ='32px' src ='https://blog.beyondimpactllc.com/hubfs/Azure-Logo.png'> </a>
+<!-- <a href= "https://azure.microsoft.com"> <img width ='32px' src ='https://blog.beyondimpactllc.com/hubfs/Azure-Logo.png'> </a> -->
 <a href= "https://cloud.google.com"> <img width ='32px' src ='https://www.pinclipart.com/picdir/big/76-766456_google-cloud-google-cloud-logo-svg-clipart.png'> </a>
 <a href= "https://www.linux.org/"> <img width ='32px' src ='https://cdn-icons-png.flaticon.com/512/226/226772.png'> </a></p>
 <br>
