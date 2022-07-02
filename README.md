@@ -9,7 +9,8 @@
  
 
 👉 <strong>MCA Student</strong> at <strong>NIT Kurukshetra</strong> <br>
-👉Currently Learning <strong>Data Structures and Algorithms</strong>  <br>
+👉 <strong>SWE Intern</strong> at <strong>Triggermesh</strong> <br>
+👉Currently Learning <strong>Kubernetes</strong>  <br>
 👉Interested in <strong>Computer Technologies</strong>  <br>
 👉 I’m looking to collaborate on <strong>OpenSource</strong> projects  <br>
 
@@ -31,14 +32,13 @@ I love to spend time at <strong>GitHub</strong>
 <a href= https://github.com/AmanSarraf?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://cdn-icons-png.flaticon.com/512/136/136530.png'> </a>
 <a href= https://github.com/AmanSarraf?tab=repositories&q=&type=&language=rdf&sort= > <img width ='32px' src ='https://www.w3.org/Icons/SW/sw-cube.png'> </a>
 <a href= https://github.com/AmanSarraf?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://www.pinclipart.com/picdir/big/396-3965857_c-c-programming-language-logo-clipart.png'> </a>
-<a href= https://github.com/AmanSarraf?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://cdn-icons-png.flaticon.com/512/919/919841.png'> </a>
+<a href= https://github.com/AmanSarraf?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://cdn-icons-png.flaticon.com/512/919/919841.png'> </a><a href= https://github.com/AmanSarraf?tab=repositories&q=&type=&language=go&sort= > <img width ='32px' src ='https://www.iconbolt.com/iconsets/elastic-ui-logos/golang.svg'> </a>
 <a href= https://github.com/AmanSarraf?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' src ='https://cdn-icons-png.flaticon.com/512/226/226777.png'> </a>
 <a href= https://github.com/AmanSarraf?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://cdn.icon-icons.com/icons2/2415/PNG/512/python_original_logo_icon_146381.png'> </a>
 <a href= https://github.com/AmanSarraf?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' src ='https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png'> </a>
 <a href= https://github.com/AmanSarraf?tab=repositories&q=&type=&language=php&sort= > <img width ='32px' src ='https://pics.freeicons.io/uploads/icons/png/2132470731553750209-512.png'> </a>
 <a href= https://github.com/AmanSarraf?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://cdn-icons-png.flaticon.com/512/919/919851.png'> </a>
-<!-- <a href= https://github.com/AmanSarraf?tab=repositories&q=&type=&language=ruby&sort= > <img width ='32px' src ='https://cdn-icons-png.flaticon.com/512/919/919842.png'> </a> -->
-<!-- <a href= "https://www.mongodb.com"/> <img width ='32px' src ='https://mpng.subpng.com/20190401/zsf/kisspng-mongodb-document-oriented-database-nosql-openshift-web-app-development-servcie-in-dehradun-5ca1b8cb8a0f32.3708278115541024755655.jpg'> </a> -->
+
 <a href= "https://www.mysql.com/"> <img width ='32px' src ='https://www.nicepng.com/png/full/207-2073547_sql-server-icon-png-29-transparent-background-database.png'> </a>
 <a href= "https://git-scm.com/"> <img width ='32px' src ='https://iconape.com/wp-content/png_logo_vector/git-icon.png'> </a>
 <a href= "https://github.com/AmanSarraf"> <img width ='32px' src ='https://www.pngfind.com/pngs/m/19-198636_github-logo-png-github-square-logo-png-transparent.png'> </a>
