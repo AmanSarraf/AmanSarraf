@@ -9,7 +9,7 @@
  
 
 👉 <strong>MCA Student</strong> at <strong>NIT Kurukshetra</strong> <br>
-👉 <strong>SWE Intern</strong> at <strong>Triggermesh</strong> <br>
+👉 <strong>Formar Intern</strong> at <strong>Triggermesh</strong> <br>
 👉Currently Learning <strong>Kubernetes</strong>  <br>
 👉Interested in <strong>Computer Technologies</strong>  <br>
 👉 I’m looking to collaborate on <strong>OpenSource</strong> projects  <br>
@@ -21,8 +21,8 @@ I love to spend time at <strong>GitHub</strong>
     <img src="https://komarev.com/ghpvc/?username=AmanSarraf&color=dc143c&style=plastic">
 </a> 
 <a href="https://github.com/AmanSarraf?tab=followers"><img src="https://img.shields.io/github/followers/AmanSarraf?label=Followers&style=social" alt="GitHub Badge"></a>
-<a href="https://twitter.com/Aman81152043">
-    <img src="https://img.shields.io/twitter/follow/AmanSarraf?style=social">
+<a href="https://twitter.com/aman_stwts">
+    <img src="https://img.shields.io/twitter/follow/aman_stwts?style=social">
 </a>
 <p><h2> Skills & Tools <img src = "https://media4.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=790b76118f1f8400b759e4d4c159f202c372dd2163f99644&rid=giphy.gif&ct=s" width = 32px> </h2><br>
 <a href= https://github.com/AmanSarraf?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://cdn-icons-png.flaticon.com/512/174/174854.png'> </a>
@@ -44,7 +44,7 @@ I love to spend time at <strong>GitHub</strong>
 <a href= "https://github.com/AmanSarraf"> <img width ='32px' src ='https://www.pngfind.com/pngs/m/19-198636_github-logo-png-github-square-logo-png-transparent.png'> </a>
 <a href= "https://www.docker.com"> <img width ='32px' src ='https://cdn-icons-png.flaticon.com/512/5969/5969059.png'> </a>
 <a href= "https://kubernetes.io"> <img width ='32px' src ='https://w7.pngwing.com/pngs/190/922/png-transparent-kubernetes-docker-devops-lxc-mongodb-github-blue-logo-symmetry.png'> </a>
-<a href= "https://aws.amazon.com"> <img width ='32px' src ='https://key0.cc/images/preview/32398_4afd8e61dc49a7f45079d384b6185feb.png'> </a>
+<a href= "https://aws.amazon.com"> <img width ='32px' src ="https://key0.cc/images/preview/32398_4afd8e61dc49a7f45079d384b6185feb.png"> </a>
 <!-- <a href= "https://azure.microsoft.com"> <img width ='32px' src ='https://blog.beyondimpactllc.com/hubfs/Azure-Logo.png'> </a> -->
 <a href= "https://cloud.google.com"> <img width ='32px' src ='https://www.pinclipart.com/picdir/big/76-766456_google-cloud-google-cloud-logo-svg-clipart.png'> </a>
 <a href= "https://www.linux.org/"> <img width ='32px' src ='https://cdn-icons-png.flaticon.com/512/226/226772.png'> </a></p>
