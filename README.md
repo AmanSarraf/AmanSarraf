@@ -8,7 +8,7 @@
   <img width="50%" align="right" alt="Github" src="https://user-images.githubusercontent.com/60788180/131893851-b24002a3-72be-40cf-a179-7cbdff89b087.gif" />
  
 
-👉 <strong>Software Engineer</strong>
+👉 <strong>Software Engineer</strong> <br>
 👉Currently Learning <strong>Kubernetes</strong>  <br>
 👉Interested in <strong>Computer Technologies</strong>  <br>
 👉 I’m looking to collaborate on <strong>OpenSource</strong> projects  <br>
