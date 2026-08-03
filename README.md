@@ -1,114 +1,64 @@
-<h1 align="center">Hi 👋, I'm Aman Sarraf</h1>
-<h3 align="center">AI Engineer | LLM & Cloud Systems Builder</h3>
+<div align="center">
 
-<p align="center">
-Building intelligent systems using <b>LLMs, RAG pipelines, and scalable cloud infrastructure</b>
-</p>
+<!-- <img src="https://img.shields.io/badge/%E2%9A%A1%20AMAN'S%20AI%20LAB-0B1020?style=for-the-badge&labelColor=A855F7&color=22D3EE" alt="Neon purple and cyan capsule header for Aman's AI lab" /> -->
 
----
+# Hey there, I'm Aman 👾
 
-## 🧠 About Me
+**Software Engineer**
 
-<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" alt="AI coding gif" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2400&pause=650&color=22D3EE&center=true&vCenter=true&width=760&repeat=false&lines=Building+agentic+AI+systems;Connecting+LLMs+with+knowledge+graphs;Shipping+cloud-native+intelligence" alt="Building agentic AI systems; connecting LLMs with knowledge graphs; shipping cloud-native intelligence" />
 
-- 🤖 AI Engineer focused on **Generative AI and LLM applications**
-- 🧩 Building **RAG pipelines, AI APIs, and intelligent developer tools**
-- ☁️ Working with **AWS, Azure, and cloud-native AI architectures**
-- 🐳 Deploying AI services with **Docker, Kubernetes, and CI/CD**
-- ⚡ Experience with **Go, Kubernetes, and CloudEvents** from my time at TriggerMesh
+`> turning messy ideas into useful intelligent systems_`
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio-rho-opal-47.vercel.app/)
+[![Resume](https://img.shields.io/badge/Resume-22D3EE?style=for-the-badge&logo=googledocs&logoColor=0B1020)](https://docs.google.com/document/d/1WxYksFVkouKhHRpzZxIDM5CdETNcKqXSQVl5zkAKqkA/preview)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-F472B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AmanSarraf)
+[![Email](https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail.amansarraf@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-22D3EE?style=for-the-badge&logo=github&logoColor=0B1020)](https://github.com/AmanSarraf)
 
-## ⚙️ Core Expertise
+</div>
 
-**AI & LLM Systems**
+## 🧠 About this human
 
-- Retrieval Augmented Generation (RAG)
-- LLM Application Development
-- Prompt Engineering
-- Agentic Workflows (LangGraph, CrewAI)
-- LLMOps & Tracing (LangSmith)
-- AI APIs & Model Integrations
-- Vector Search & Semantic Retrieval
+🤖 Builds agents that reason, retrieve, and use tools.
 
-**Backend for AI**
+🕸️ Enjoys connecting language models with knowledge graphs.
 
-- Python
-- FastAPI
-- REST APIs for AI services
-- Async processing & microservices
+☁️ Likes taking AI beyond notebooks into cloud-native services.
 
-**Cloud & Infrastructure**
+🐍 Reaches for Python; appreciates Go when systems need sharp edges.
 
-- AWS
-- Azure
-- Docker
-- Kubernetes
-- Linux
-- CI/CD pipelines
+🧩 Cares about grounding, observability, and human control.
 
----
+🌱 Believes open source is one of the best ways to learn in public.
 
-## 🛠 Tech Stack
+## 🧬 Areas I build in
 
-### Languages
-<p>
-<img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-<img alt="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40"/>
-</p>
+- 🧠 Agentic AI and multi-agent workflows
+- 🔎 Hybrid RAG and GraphRAG
+- 🕸️ Knowledge graphs and graph agents
+- 🔌 MCP-based AI tooling
+- 👁️ Multimodal document intelligence
+- 🧪 LLM evaluation, tracing, and human-in-the-loop systems
+- ☁️ Cloud-native AI services
 
-### AI / ML Ecosystem
+## ⚡ Tech Constellation
 
-- LLM APIs
-- LangChain
-- LangGraph
-- LangSmith
-- CrewAI
-- RAG Architecture
-- Vector Databases
+- **🐍 Languages:** Python, Go, JavaScript, TypeScript, SQL, Bash
+- **🤖 Agentic AI & models:** LangGraph, LangChain, OpenAI, Claude, Azure AI Foundry, Hugging Face
+- **🕸️ Retrieval, graphs & data:** Hybrid RAG, GraphRAG, FAISS, Neo4j, PostgreSQL, Redis, Databricks
+- **🚀 Backend & AI apps:** FastAPI, FastMCP, Pydantic, REST APIs, Streamlit
+- **☁️ Cloud & platform:** AWS, Azure, Docker, Kubernetes, Knative, GitHub Actions, Git, Linux
 
-### Cloud & DevOps
-<p>
-<img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-<img alt="Kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/>
-<img alt="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" width="40"/>
-<img alt="Azure" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/>
-<img alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-<img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-<img alt="Neo4j" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="40"/>
 
-</p>
 
----
+I use GitHub as a workshop: experiments, open-source contributions, tools, and ideas in motion.
 
-## 📊 GitHub Stats
+## 📡 Find me on the network
 
-<p align="center">
+If you're building thoughtful AI systems, graph-powered tools, or useful open source, say hello.
 
-<img alt="Aman's GitHub Stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=AmanSarraf&show_icons=true&theme=radical"/>
-
-<img alt="Aman's GitHub Streak" width="48%" src="https://streak-stats.demolab.com/?user=AmanSarraf&theme=radical"/>
-
-<img alt="Aman's Top Languages" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanSarraf&layout=compact&theme=radical"/>
-
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/aman-sarraf-aa338b155/">
-<img alt="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/>
-</a>
-
-<a href="mailto:amansarrafnit@gmail.com">
-<img alt="Email" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/>
-</a>
-
-</p>
-
----
-
-⭐ Currently exploring **Agentic AI systems, RAG architectures, and cloud-native AI platforms**
+[![Portfolio](https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio-rho-opal-47.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-F472B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AmanSarraf)
+[![Email](https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail.amansarraf@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-22D3EE?style=for-the-badge&logo=github&logoColor=0B1020)](https://github.com/AmanSarraf)
